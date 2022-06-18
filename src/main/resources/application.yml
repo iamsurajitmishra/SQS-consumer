@@ -1,10 +1,10 @@
 cloud:
   aws:
     region:
-      static: ap-south-1
+      static:
       auto: false
     credentials:
-      access-key: AKIAW23EJZRGWZZLCILL
-      secret-key: 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
+      access-key:
+      secret-key:
     end-point:
-      uri: https://sqs.ap-south-1.amazonaws.com/469972405325/test-sqs
+      uri:
